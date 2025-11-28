@@ -32,7 +32,8 @@ surrounding classes, objects, and their relationships:
     * Example: [event](composition/event/)
 
 * **Copy Constructor**
-    * [Introduction](introduction/README.md)
+    * [Introduction](copy-constructor/introduction/README.md)
+    * Example: [string-copy-constructor](copy-constructor/string-copy-constructor/)
     * Example: [user-mail](copy-constructor/user-mail/)
     * Exercise: [order](copy-constructor/order-exercise/) ([Model Solution](copy-constructor/order/))
 
